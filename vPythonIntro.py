@@ -1,5 +1,3 @@
-from calendar import c
-from tkinter import W
 from vpython import *
 
 floor1 = box(pos=vector(0, -5, 0), color=color.orange, length=10, height=.1, width=10)
