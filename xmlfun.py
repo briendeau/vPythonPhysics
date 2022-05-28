@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 #XML parser ElementTree
-
+# extracting data from XML is just as easy as from JSON
+# we dig into the datastructures to find what we want.
 
 data = '''
 <person>
