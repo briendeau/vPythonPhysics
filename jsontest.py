@@ -6,7 +6,7 @@ api_key = False
 #enter api key for Google Places here if you have it.
 #api_key = ''
 #https://developers.google.com/maps/documentation/geocoding/intro
-
+#json.loads() is designed to parse the json data into a neat object.
 
 # Ignore SSL certificate errors
 ctx = ssl.create_default_context()
